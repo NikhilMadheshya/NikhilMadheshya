@@ -13,5 +13,5 @@
 - ⚡ Fun fact: ...I'll tell you after ask somebody
 
 <label>Connect With Me </label>
-:facebook:
+<i class='fa fa-facebook' ></i>
 
