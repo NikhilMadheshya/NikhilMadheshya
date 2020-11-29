@@ -13,7 +13,6 @@
 - ⚡ Fun fact: ...I'll tell you after ask somebody
 
 <label><b>Connwct with me:</b></label>
-<img src='http://i.imgur.com/tXSoThF.png' height='30px' width='30px />
 
 
 
