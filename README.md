@@ -12,9 +12,7 @@
 - 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ...I'll tell you after ask somebody
 
-<p><b>Connect with me:</b></p>
-
-![Facebook](/images/fb.png)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NikhilMadheshya)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
