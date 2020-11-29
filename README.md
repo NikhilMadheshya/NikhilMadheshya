@@ -10,6 +10,6 @@
 - 📫 How to reach me: ...[YouTube Channel](https://www.youtube.com/channel/UCfFvyabq1XPMd6w-5YSA57Q)
 - 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ...I'll tell you after ask somebody
--->
+<p><b>To know more about <a href='#'>check my profile</a></b></p>
 
-<h2>To know more about <a href='#'>check my profile</a></h2>
+
