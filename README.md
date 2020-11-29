@@ -1,6 +1,6 @@
 ### Hello Developers!,Let Me Intoduce Myself 👋
 
-![](/banner.jpg)
+<h1>I'm a Student,Self Motivated,Web Developer and Swag Banda</h1> 
 
 
 - 🔭 I’m a student and love to share my knowledge through ...YouTube
