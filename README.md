@@ -1,6 +1,6 @@
 ### Hello Developers! 👋
 
-![](/banner.jpeg)
+<img src='/banner.jpeg' width='100%' height='400px'/>
 
 
 - 🔭 I’m a student and love to share my knowledge through ...YouTube
