@@ -1,10 +1,7 @@
-### Hi there 👋, my name is Nikhil
-#### I am a web designer and the developer 
-![I am a web designer and the developer ](/images/banner.png)
+### Hello Developers!,Let Me Intoduce Myself 👋
 
-I am a student and computer programmer with the knowledge of Javascript programming language and it' related technologies like ReactJs ,NodeJS and MongoDb etc.
-
-Skills: ReactJs,ExpressJs,Mongoose 
+<h1>I'm a Student,Self Motivated,Web Developer and Swag Banda</h1> 
+<p><b>To know more about <a href='https://nikhilmadheshya.github.io/deploy-profile/#/'>:smile:check my profile</a></b></p>
 
 - 🔭 I’m currently working on  I’m a student and love to share my knowledge through YouTube 
 - 🌱 I’m currently learning ElectronJS 
