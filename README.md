@@ -13,14 +13,14 @@
 - ⚡ Fun fact: ...I'll tell you after ask somebody
 
 <label><b>Connwct with me:</b></label>
-<div style='display:flex; align-items:center'>
-<a  href='' style='text-decoration:none'>
+<div style='display:flex; align-items:center;'>
+<a  href='' style='text-decoration:none;'>
 <img src='/images/fb.png' height='40px' width='40px' />
 </a> 
-<a  href='' style='text-decoration:none'>
+<a  href='' style='text-decoration:none;'>
 <img src='/images/insta.png' height='40px' width='40px' />
 </a>  
-<a  href='' style='text-decoration:none'>
+<a  href='' style='text-decoration:none;'>
 <img src='/images/linkedIn.png' height='40px' width='40px' />
 </a>   
 </div>
