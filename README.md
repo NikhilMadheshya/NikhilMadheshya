@@ -16,7 +16,15 @@
 <div style='display:flex; align-items:center'>
 <a  href=''>
 <img src='/images/fb.png' height='40px' width='40px' />
+</a> 
+  &nbsp;
+<a  href=''>
+<img src='/images/insta.png' height='40px' width='40px' />
 </a>  
+  &nbsp; 
+<a  href=''>
+<img src='/images/linkedIn.png' height='40px' width='40px' />
+</a>   
 </div>
 
 
