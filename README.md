@@ -13,7 +13,9 @@
 - ⚡ Fun fact: ...I'll tell you after ask somebody
 
 <label><b>Connwct with me:</b></label>
-![](/images/fb.png)
+<div style='display:flex; align-items:center'>
+[<img src='/images/fb.png' height='25px' width='25px' />]
+</div>
 
 
 
