@@ -14,7 +14,7 @@
 
 <p><b>Connect with me:</b></p>
 
-[1]:/images/fb.png
+[Facebook](/images/fb.png)
 
 
 
