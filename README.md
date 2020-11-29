@@ -1,7 +1,7 @@
 ### Hello Developers!,Let Me Intoduce Myself 👋
 
 <h1>I'm a Student,Self Motivated,Web Developer and Swag Banda</h1> 
-<p>To know more about<a href='#'>check my profile</a></p>
+<h2>To know more about <a href='#'>check my profile</a></h2>
 
 
 - 🔭 I’m a student and love to share my knowledge through ...YouTube
