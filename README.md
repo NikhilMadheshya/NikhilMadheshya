@@ -14,8 +14,8 @@
 
 <div styl="display:flex; align-items:center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NikhilMadheshya)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/NkSourceGuide Madheshya/)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>(https://www.facebook.com/Swagboy Madheshya) 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/NkSourceGuide)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>(https://www.facebook.com/SwagboyMadheshya) 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>(https://www.instagram.com/kingofsourceguide/)  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>(https://www.youtube.com/channel/fFvyabq1XPMd6w-5YSA57Q)]  
 </div>
