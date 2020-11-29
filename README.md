@@ -1,7 +1,7 @@
 ### Hello Developers!,Let Me Intoduce Myself 👋
 
 <h1>I'm a Student,Self Motivated,Web Developer and Swag Banda</h1> 
-<p><b>To know more about <a href='#'>:smile:check my profile</a></b></p>
+<p><b>To know more about <a href='https://nikhilmadheshya.github.io/deploy-profile/#/'>:smile:check my profile</a></b></p>
 
 - 🔭 I’m a student and love to share my knowledge through ...YouTube
 - 🌱 I’m currently learning ...Electron Js
