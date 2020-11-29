@@ -1,8 +1,6 @@
 ### Hello Developers!,Let Me Intoduce Myself 👋
 
 <h1>I'm a Student,Self Motivated,Web Developer and Swag Banda</h1> 
-<h2>To know more about <a href='#'>check my profile</a></h2>
-
 
 - 🔭 I’m a student and love to share my knowledge through ...YouTube
 - 🌱 I’m currently learning ...Electron Js
@@ -13,3 +11,5 @@
 - 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ...I'll tell you after ask somebody
 -->
+
+<h2>To know more about <a href='#'>check my profile</a></h2>
