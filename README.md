@@ -14,11 +14,11 @@
 
 <p><b>Connect with me:</b></p>
 
-<img src='/images/fb.png' height='40px' width='40px' />
+<img src='/images/fb.png' height='40px' width='40px'  style='border-radius:50%; objet-fit:contain;'/>
 
-<img src='/images/insta.png' height='40px' width='40px' />
+<img src='/images/insta.png' height='40px' width='40px' style='border-radius:50%; objet-fit:contain;' />
 
-<img src='/images/linkedIn.png' height='40px' width='40px' />   
+<img src='/images/linkedIn.png' height='40px' width='40px' style='border-radius:50%; objet-fit:contain;' />   
 
 
 
