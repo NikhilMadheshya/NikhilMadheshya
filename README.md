@@ -10,5 +10,5 @@
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[YouTube Channel](https://www.youtube.com/channel/UCfFvyabq1XPMd6w-5YSA57Q)
 - 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...I'll tell you after i know myself
+- ⚡ Fun fact: ...I'll tell you after ask somebody
 -->
