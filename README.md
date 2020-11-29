@@ -1,6 +1,6 @@
 ### Hello Developers!,Let Me Intoduce Myself 👋
 
-<img src='/images/banner.jpg' height='300' width='100%;/>
+<img src='/images/banner.jpg' height='300' width='100%' />
 
 <h1>I'm a Student,Self Motivated,Web Developer and Designer</h1> 
 <p><b>To know more about <a href='https://nikhilmadheshya.github.io/deploy-profile/#/'>:smile:check my profile</a></b></p>
