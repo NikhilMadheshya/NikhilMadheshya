@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikhil
 #### I am a web designer and the developer 
-![I am a web designer and the developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a web designer and the developer ](/images/banner.png)
 
 I am a student and computer programmer with the knowledge of Javascript programming language and it' related technologies like ReactJs ,NodeJS and MongoDb etc.
 
