@@ -1,6 +1,6 @@
 ### Hello Developers! 👋
 
-![](/banner.jpeg)
+![](/banner.jpg)
 
 
 - 🔭 I’m a student and love to share my knowledge through ...YouTube
