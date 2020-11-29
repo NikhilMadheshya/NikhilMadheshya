@@ -1,4 +1,5 @@
 ### Hello Developers!,Let Me Intoduce Myself 👋
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 
 <h1>I'm a Student,Self Motivated,Web Developer and Swag Banda</h1> 
 <p><b>To know more about <a href='https://nikhilmadheshya.github.io/deploy-profile/#/'>:smile:check my profile</a></b></p>
@@ -14,12 +15,7 @@
 
 <p><b>Connect with me:</b></p>
 
-<img src='/images/fb.png' height='40px' width='40px'  style='border-radius:50%; objet-fit:cover; '/>
-
-<img src='/images/insta.png' height='40px' width='40px' style='border-radius:50%; objet-fit:cover; display:block;' />
-
-<img src='/images/linkedIn.png' height='40px' width='40px' style='border-radius:50%; objet-fit:cover;' />   
-
+<i class="ri-facebook-circle-fill"></i>
 
 
 
